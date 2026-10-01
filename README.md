@@ -19,6 +19,6 @@ Traffic congestion forecasting for Bengaluru Traffic Police, built on 8,173 real
 **Backend:** FastAPI, Flask, PostgreSQL, Redis, REST APIs, Microservices
 **DevOps:** Docker, Jenkins, CI/CD, Google Cloud Run, Linux
 
-## 📫 Reach Me
+##  Reach Me
 
 [LinkedIn](https://linkedin.com/in/anshuman-das-875a9a282) · dasanshuneel001@gmail.com · LeetCode Knight (1898)
