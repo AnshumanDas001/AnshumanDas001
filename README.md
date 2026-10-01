@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Anshuman 👋
 
-<!--
-**AnshumanDas001/AnshumanDas001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI and backend engineer building production LLM systems: RAG, model serving, guardrails, and cost-aware LLM routing.
 
-Here are some ideas to get you started:
+Currently a **Management Trainee (Technology) at ACT Fibernet**, where I built a production RAG platform from scratch for 200 Network Operations Center engineers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Featured Projects
+
+**[ThriftLLM](https://github.com/AnshumanDas001/llm-router)** · [Live Demo](https://thriftllm-582468287136.asia-south1.run.app/)
+OpenAI-compatible LLM gateway that routes each prompt to the cheapest model likely to answer it correctly. Cut inference cost 82% vs. a frontier model, with all 76 graded answers correct.
+
+**[Event Plan Optima](https://github.com/AnshumanDas001/EventPlanOptima)** · [Live Demo](https://sweet-ganache-a1c701.netlify.app/)
+Traffic congestion forecasting for Bengaluru Traffic Police, built on 8,173 real event records. Interpretable ML models running with zero backend.
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C++, JavaScript, SQL
+**AI / LLM:** RAG, vLLM, llama.cpp, Llama Guard, Sentence-Transformers, scikit-learn
+**Backend:** FastAPI, Flask, PostgreSQL, Redis, REST APIs, Microservices
+**DevOps:** Docker, Jenkins, CI/CD, Google Cloud Run, Linux
+
+## 📫 Reach Me
+
+[LinkedIn](https://linkedin.com/in/anshuman-das-875a9a282) · dasanshuneel001@gmail.com · LeetCode Knight (1898)
