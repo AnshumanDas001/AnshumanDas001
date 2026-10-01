@@ -1,10 +1,10 @@
-# Hi, I'm Anshuman 👋
+# Hi, I'm Anshuman 
 
 AI and backend engineer building production LLM systems: RAG, model serving, guardrails, and cost-aware LLM routing.
 
 Currently a **Management Trainee (Technology) at ACT Fibernet**, where I built a production RAG platform from scratch for 200 Network Operations Center engineers.
 
-## 🔧 Featured Projects
+## Featured Projects
 
 **[ThriftLLM](https://github.com/AnshumanDas001/llm-router)** · [Live Demo](https://thriftllm-582468287136.asia-south1.run.app/)
 OpenAI-compatible LLM gateway that routes each prompt to the cheapest model likely to answer it correctly. Cut inference cost 82% vs. a frontier model, with all 76 graded answers correct.
@@ -12,7 +12,7 @@ OpenAI-compatible LLM gateway that routes each prompt to the cheapest model like
 **[Event Plan Optima](https://github.com/AnshumanDas001/EventPlanOptima)** · [Live Demo](https://sweet-ganache-a1c701.netlify.app/)
 Traffic congestion forecasting for Bengaluru Traffic Police, built on 8,173 real event records. Interpretable ML models running with zero backend.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, C++, JavaScript, SQL
 **AI / LLM:** RAG, vLLM, llama.cpp, Llama Guard, Sentence-Transformers, scikit-learn
